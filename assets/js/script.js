@@ -8,7 +8,7 @@ document.getElementById('send-message-button').addEventListener('click', functio
 });
 
 // Global server domain (change here or set window.SERVER_DOMAIN before this script runs)
-const SERVER = window.SERVER_DOMAIN || 'http://0.0.0.0:10000';
+const SERVER = window.SERVER_DOMAIN || 'https://rag-pdc.onrender.com';
 
 function displayMessage(message, sender) {
     const chatList = document.querySelector('.chat-list');
