@@ -1,0 +1,290 @@
+Institutional Knowledge Base for Intelligent Support of Course Development Plans (PDC)
+1. Institutional Curricular Guidelines
+1.1 Purpose and Scope
+
+The Institutional Curricular Guidelines define the academic, pedagogical, and structural principles governing the design, implementation, and evaluation of all Course Development Plans (PDC). These guidelines ensure alignment between institutional mission, program learning outcomes, course-level outcomes, and assessment practices.
+
+All courses must demonstrate constructive alignment between:
+
+Institutional educational philosophy
+
+Program learning outcomes
+
+Course learning outcomes
+
+Teaching-learning strategies
+
+Assessment mechanisms
+
+1.2 Outcome-Based Education Framework
+
+The institution adopts an Outcome-Based Education (OBE) model grounded in competency development. Each Course Development Plan must:
+
+Define measurable and observable Learning Outcomes.
+
+Align outcomes with the program’s graduate profile.
+
+Ensure that learning activities and assessments directly support outcome achievement.
+
+Learning Outcomes must:
+
+Begin with an action verb in the infinitive form.
+
+Reflect higher-order cognitive processes when appropriate.
+
+Be student-centered.
+
+Be assessable through observable evidence.
+
+1.3 Taxonomy and Cognitive Levels
+
+All Learning Outcomes must follow an adapted version of Bloom’s Taxonomy. Priority is given to higher-order verbs such as:
+
+Analyze
+
+Evaluate
+
+Design
+
+Create
+
+Synthesize
+
+Formulate
+
+Lower-level verbs (e.g., identify, describe, list) should be used only when pedagogically justified.
+
+2. Best-Practice Course Development Plans (PDC)
+2.1 Structural Coherence
+
+Best-practice PDC documents demonstrate clear vertical and horizontal alignment:
+
+Vertical alignment:
+
+Course Learning Outcomes contribute directly to Program Learning Outcomes.
+
+Horizontal alignment:
+
+Learning outcomes are coherently linked to:
+
+Core concepts
+
+Learning trajectories (course pathways)
+
+Pedagogical devices
+
+Assessment criteria
+
+Rubrics
+
+2.2 Conceptual Network Design
+
+High-quality PDCs include a well-defined conceptual network:
+
+Core concepts are clearly identified.
+
+Relationships between concepts are explicit.
+
+The conceptual network supports progression across learning trajectories.
+
+Conceptual networks must demonstrate:
+
+Logical sequencing.
+
+Increasing cognitive complexity.
+
+Coherence between theory and application.
+
+2.3 Problem-Driven Structure
+
+Best-practice PDCs incorporate a guiding problem or inquiry question that:
+
+Frames the course purpose.
+
+Connects theory to real-world application.
+
+Encourages analytical and critical thinking.
+
+The problem statement should be:
+
+Contextualized.
+
+Disciplinarily relevant.
+
+Open-ended and intellectually challenging.
+
+3. Pedagogical Foundations
+3.1 Student-Centered Learning
+
+The institution promotes active and student-centered learning environments. Course design must incorporate:
+
+Active learning methodologies.
+
+Problem-based learning (PBL).
+
+Case-based analysis.
+
+Collaborative activities.
+
+Reflective practice.
+
+Teaching strategies must promote:
+
+Autonomy.
+
+Critical reasoning.
+
+Ethical awareness.
+
+Applied knowledge.
+
+3.2 Pedagogical Devices
+
+Pedagogical devices may include:
+
+Workshops
+
+Laboratories
+
+Simulations
+
+Case discussions
+
+Research-based activities
+
+Fieldwork
+
+Each pedagogical device must be explicitly aligned with one or more Learning Outcomes.
+
+4. Rubric Models and Assessment Framework
+4.1 Constructive Alignment in Assessment
+
+Assessment design must ensure consistency between:
+
+Learning Outcomes
+
+Realizations (demonstrations of learning)
+
+Evaluation Criteria
+
+Achievement Levels
+
+Each Learning Outcome must have:
+
+Clearly defined realizations.
+
+Observable performance indicators.
+
+Explicit evaluation criteria.
+
+4.2 Rubric Structure
+
+Institutional rubrics must include:
+
+Learning Outcome reference
+
+Performance criteria
+
+Achievement levels (e.g., Emerging, Developing, Proficient, Advanced)
+
+Descriptors for each level
+
+Descriptors must:
+
+Be specific and measurable.
+
+Avoid vague language.
+
+Reflect progressive cognitive mastery.
+
+4.3 Level of RAE Achievement
+
+A Learning Outcome is considered “achieved” when:
+
+The student demonstrates consistent performance aligned with defined criteria.
+
+Evidence meets or exceeds the “Proficient” level.
+
+Performance reflects conceptual understanding and applied competence.
+
+5. Validated Examples from the Curricular Directorate
+5.1 Example of a High-Quality Learning Outcome
+
+"Analyze the principles of object-oriented programming to design modular and scalable software solutions, demonstrating conceptual clarity and functional implementation."
+
+Characteristics:
+
+Begins with a higher-order verb.
+
+Is measurable.
+
+Is student-centered.
+
+Implies observable performance.
+
+5.2 Example of Coherent Alignment
+
+Learning Outcome:
+"Evaluate ethical implications of engineering decisions in real-world scenarios."
+
+Realization:
+
+Case-based analysis report.
+
+Assessment Criteria:
+
+Depth of ethical reasoning.
+
+Application of professional standards.
+
+Clarity of argumentation.
+
+Rubric Levels:
+
+Emerging: Identifies ethical issue without analysis.
+
+Developing: Provides partial ethical reasoning.
+
+Proficient: Demonstrates structured ethical evaluation.
+
+Advanced: Integrates multiple ethical frameworks critically.
+
+6. Knowledge Base Functional Purpose
+
+This institutional knowledge base is designed to support an intelligent assistant system through Retrieval-Augmented Generation (RAG).
+
+Its primary functions are:
+
+6.1 Semantic Retrieval of Institutional Knowledge
+
+The vectorized content enables:
+
+Context-aware retrieval of curricular principles.
+
+Identification of relevant pedagogical models.
+
+Recovery of validated structural examples.
+
+6.2 RAG-Based Assistant Support
+
+The assistant leverages this knowledge base to:
+
+Guide faculty in constructing Course Development Plans.
+
+Suggest aligned Learning Outcomes.
+
+Recommend coherent pedagogical strategies.
+
+Propose structured rubric components.
+
+6.3 Contextualized and Aligned Generation
+
+By integrating retrieved institutional fragments into prompts, the assistant ensures:
+
+Alignment with curricular policies.
+
+Pedagogical coherence.
+
+Terminological consistency.
+
+Reduced risk of generic or misaligned output.

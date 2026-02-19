@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>  Chatbot | Developergtm</title>
+  <!-- Linking Google Fonts For Icons -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+  <link rel="stylesheet" href="/assets/css/style.css">
+    <script src="/assets/js/script.js" defer></script>
+</head>
+<body>
+  <header class="header">
+    <!-- Header Greetings -->
+    <h1 class="title">AGENTE DE CONSULTA PDC</h1>
+    <p class="subtitle">¿Cómo puedo ayudarte hoy?</p>
+    <!-- Suggestion list -->
+    <ul class="suggestion-list">
+      <li class="suggestion">
+        <h4 class="text">Finalidad del curso :Este curso introduce a los estudiantes en losfundamentos de la programación orientada a objetos.Concepto o tema principal:Herencia y Polimorfismo .</h4>
+        <span class="icon material-symbols-rounded">draw</span>
+      </li>
+      <li class="suggestion">
+        <h4 class="text">Este curso busca que los estudiantes comprendan los principios fundamentales del derecho constitucional y su aplicación en la interpretación y protección de los derechos fundamentales dentro del ordenamiento jurídico colombiano.</h4>
+        <span class="icon material-symbols-rounded">lightbulb</span>
+      </li>
+      <li class="suggestion">
+        <h4 class="text">¿Este curso tiene como propósito que los estudiantes desarrollen habilidades para analizar el entorno organizacional y formular estrategias empresariales sostenibles en contextos competitivos y cambiantes</h4>
+        <span class="icon material-symbols-rounded">explore</span>
+      </li>
+      <li class="suggestion">
+        <h4 class="text">Finalidad del curso:
+Este curso tiene como propósito que los estudiantes desarrollen habilidades para analizar el entorno organizacional y formular estrategias empresariales sostenibles en contextos competitivos y cambiantes.
+
+Concepto o tema principal:
+Análisis estratégico (Modelo de las Cinco Fuerzas de Porter)</h4>
+        <span class="icon material-symbols-rounded">code</span>
+      </li>
+    </ul>
+  </header>
+  <!-- Chat List / Container -->
+  <div class="chat-list"></div>
+  <!-- Typing Area -->
+  <div class="typing-area">
+    <form action="#" class="typing-form">
+      <div class="input-wrapper">
+        <input type="text" placeholder="Finalidad del curso y el concepto principal." class="typing-input" required />
+        <button id="send-message-button" class="icon material-symbols-rounded">send</button>
+      </div>
+      <div class="action-buttons">
+        <span id="theme-toggle-button" class="icon material-symbols-rounded">light_mode</span>
+        <span id="delete-chat-button" class="icon material-symbols-rounded">delete</span>
+      </div>
+    </form>
+    <p class="disclaimer-text">
+       college may display inaccurate info, including about people, so double-check its responses.
+    </p>
+  </div>
+ 
+</body>
+</html>
