@@ -96,6 +96,19 @@ python -m pip install -r packages.txt
 
 This installs the exact package versions listed in `packages.txt`.
 
+### Deployment
+This project is deployed and reachable at: https://rag-pdc.onrender.com/
+
+You can call the live `sugerir-rae` endpoint directly (example):
+
+```bash
+curl -X POST https://rag-pdc.onrender.com/api/sugerir-rae \
+  -H "Content-Type: application/json" \
+  -d '{"text":"Finalidad del curso: Introducir a estudiantes en programación orientada a objetos."}'
+```
+
+Note: the hosted instance may have different environment settings or rate limits. Do not rely on the public deployment for secrets or heavy production traffic.
+
 ---
 
 ## Examples
