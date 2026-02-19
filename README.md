@@ -157,4 +157,3 @@ fetch('/api/sugerir-rae', {
 
 ---
 
-If you want, I can: add example unit tests for `sugerir_rae`, show how to add stricter validation, or update the front-end `script.js` to call this endpoint.  
